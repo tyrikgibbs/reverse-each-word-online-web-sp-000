@@ -1,5 +1,7 @@
 def reverse_each_word(sentence)
+  mysentence = []
   sentence.each do |sentences|
-    puts "#{setence}".reverse
+    mysentence << "#{setences}".reverse
   end
+  mysentence
 end
